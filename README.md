@@ -13,7 +13,7 @@ Custom Tweaks to the iPlastic Sublime Theme
 	* Git clone:
 		1. Open this folder in the terminal and `git clone` this repo directly
 4. In Sublime: Preferences > Color Scheme > iPlastic-custom > iPlastic
-5. Restart Sublime
+5. Restart Sublime (maybe unnecessary?)
 
 ## Features
 
